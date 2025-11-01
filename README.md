@@ -1,5 +1,4 @@
 # Python Tutorials
-# Python教程
 
 ## Why you want to join Real Python?
 I want to write for Real Python because it perfectly combines two things I’m deeply passionate about — Python development and educational communication.
